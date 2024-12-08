@@ -62,9 +62,9 @@
     <Analyzer Include="/Users/kemalyildiran/.vscode/extensions/visualstudiotoolsforunity.vstuc-1.0.5/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/_Assets/TASK_VFX/Scripts/vfx_scene.cs" />
     <Compile Include="Assets/_Assets/TASK_1/Scripts/SlicedFilledImage.cs" />
     <Compile Include="Assets/_Assets/TASK_1/Scripts/UIManager.cs" />
-    <Compile Include="Assets/_Assets/TASK_VFX/Scripts/vfx_scene.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
